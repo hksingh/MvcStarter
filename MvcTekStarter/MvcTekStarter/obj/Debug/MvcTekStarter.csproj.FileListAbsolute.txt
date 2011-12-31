@@ -14,3 +14,6 @@ C:\Users\lilu\Projects\MvcStarter\MvcTekStarter\MvcTekStarter\bin\EntityFramewor
 C:\Users\lilu\Projects\MvcStarter\MvcTekStarter\MvcTekStarter\obj\Debug\MvcTekStarter.csprojResolveAssemblyReference.cache
 C:\Users\lilu\Projects\MvcStarter\MvcTekStarter\MvcTekStarter\obj\Debug\MvcTekStarter.dll
 C:\Users\lilu\Projects\MvcStarter\MvcTekStarter\MvcTekStarter\obj\Debug\MvcTekStarter.pdb
+C:\Users\lilu\Projects\MvcStarter\MvcTekStarter\MvcTekStarter\bin\NLog.config
+C:\Users\lilu\Projects\MvcStarter\MvcTekStarter\MvcTekStarter\bin\NLog.dll
+C:\Users\lilu\Projects\MvcStarter\MvcTekStarter\MvcTekStarter\bin\NLog.xml
