@@ -1,0 +1,16 @@
+C:\Users\lilu\Projects\MvcStarter\MvcTekStarter\MvcTekStarter\bin\MvcTekStarter.dll
+C:\Users\lilu\Projects\MvcStarter\MvcTekStarter\MvcTekStarter\bin\MvcTekStarter.pdb
+C:\Users\lilu\Projects\MvcStarter\MvcTekStarter\MvcTekStarter\bin\EntityFramework.dll
+C:\Users\lilu\Projects\MvcStarter\MvcTekStarter\MvcTekStarter\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lilu\Projects\MvcStarter\MvcTekStarter\MvcTekStarter\bin\Microsoft.Web.Optimization.dll
+C:\Users\lilu\Projects\MvcStarter\MvcTekStarter\MvcTekStarter\bin\System.Web.Helpers.dll
+C:\Users\lilu\Projects\MvcStarter\MvcTekStarter\MvcTekStarter\bin\System.Web.Mvc.dll
+C:\Users\lilu\Projects\MvcStarter\MvcTekStarter\MvcTekStarter\bin\System.Web.Providers.dll
+C:\Users\lilu\Projects\MvcStarter\MvcTekStarter\MvcTekStarter\bin\System.Web.Razor.dll
+C:\Users\lilu\Projects\MvcStarter\MvcTekStarter\MvcTekStarter\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lilu\Projects\MvcStarter\MvcTekStarter\MvcTekStarter\bin\System.Web.WebPages.dll
+C:\Users\lilu\Projects\MvcStarter\MvcTekStarter\MvcTekStarter\bin\System.Web.WebPages.Razor.dll
+C:\Users\lilu\Projects\MvcStarter\MvcTekStarter\MvcTekStarter\bin\EntityFramework.xml
+C:\Users\lilu\Projects\MvcStarter\MvcTekStarter\MvcTekStarter\obj\Debug\MvcTekStarter.csprojResolveAssemblyReference.cache
+C:\Users\lilu\Projects\MvcStarter\MvcTekStarter\MvcTekStarter\obj\Debug\MvcTekStarter.dll
+C:\Users\lilu\Projects\MvcStarter\MvcTekStarter\MvcTekStarter\obj\Debug\MvcTekStarter.pdb
